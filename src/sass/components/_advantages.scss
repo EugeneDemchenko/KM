@@ -1,0 +1,95 @@
+.advantages{
+    margin-top: 60px;
+        @media screen and (min-width:768px) {
+                margin-top: 80px;
+            }
+
+}
+.advantages__title{
+    font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 43px;
+        text-align: center;
+        color: $main-color;
+        margin-bottom: 20px;
+            @media screen and (min-width:768px) and (max-width:1279px) {
+                    margin-bottom: 36px;
+                    font-size: 50px;
+                        line-height: 67px;
+                }
+            
+                @media screen and (min-width:1280px) {
+                    margin-bottom: 36px;
+                    font-size: 70px;
+                        line-height: 93px;
+                }
+}
+.listBox{
+        @media screen and (min-width:768px) and (max-width:1279px) {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 40px;
+        }
+        @media screen and (min-width:1280px) {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 80px;
+        }
+}
+.advantages__list{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 20px;
+    @media screen and (min-width:768px) and (max-width:1279px) {
+    }
+    @media screen and (min-width:1280px) {}
+}
+.advantages__item{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.advantages__item:last-child {align-items: flex-start;}
+.advantages__item:nth-child(3n+2){
+    @media screen and (max-width:768px) {margin-left: 56px;}
+}
+.advantages__item:nth-child(3n+3){
+    @media screen and (max-width:768px) {margin-left: 112px;}
+}
+.advantages__svg{
+            @media screen and (min-width:768px) {
+                    width: 26px;
+                    height: 26px;
+                }
+}
+.advantages__text{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: $main-color-text;
+    @media screen and (min-width:768px) and (max-width:1279px) {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    @media screen and (min-width:1280px) {
+        font-size: 24px;
+        line-height: 33px;
+    }
+}
+.advantages__photo {
+    display: block;
+    margin: 0 auto;
+    width: 375px;
+    @media screen and (min-width:768px) and (max-width:1279px) {
+            width: 768px;
+    }
+            
+    @media screen and (min-width:1280px) {
+        width: 1440px;
+    }
+}

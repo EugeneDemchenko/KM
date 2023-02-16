@@ -1,2 +1,8 @@
-@import './common';
-@import './example';
+@import './utils/_variables';
+@import './utils/_common';
+
+@import './components/header';
+@import './components/about';
+@import './components/advantages';
+@import './components/tours';
+
