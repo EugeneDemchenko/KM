@@ -2,43 +2,91 @@
     {  
         "id": "1",
         "username": "Марія",
-        "avatar": "/src/data/usersPhoto/avatars/Maria.png",
+        "avatar": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006289/KM/avatars/Maria_w8vlxo.png",
         "comment":"Було по справжньому круто! Бачили все - сонце, сніг, дощ, туман! Дуже захопливо і цікаво, не пожалкували - варто піти і побачити все своїми очима. Організовано все на вищому рівні. ",
-        "photo": "./usersPhoto/photo/Review_1_desktop.png"
+        "photo1x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006085/KM/photos/mob/Review_1_mobile-1x_rfg6uf.png",
+        "photo1x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006085/KM/photos/mob/Review_1_mobile-2x_zhlxyf.png",
+        "photo1x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006087/KM/photos/mob/Review_1_mobile-3x_eldthv.png",
+        "photo2x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006110/KM/photos/tabs/Review_1_tablet-1x_aln3u3.png",
+        "photo2x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006112/KM/photos/tabs/Review_1_tablet-2x_ywlqjp.png",
+        "photo2x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006113/KM/photos/tabs/Review_1_tablet-3x_wjzjoo.png",
+        "photo3x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006025/KM/photos/desk/Review_1_desktop-1x_qrxtxt.png",
+        "photo3x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006025/KM/photos/desk/Review_1_desktop-2x_n56jli.png",
+        "photo3x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006026/KM/photos/desk/Review_1_desktop-3x_dolxww.png"
     },
     {  
         "id": "2",
         "username": "Остап",
-        "avatar": "/data/usersPhoto/avatars/Ostap.png",
+        "avatar": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006289/KM/avatars/Ostap_favooc.png",
         "comment":"Хороша організація, все пройшло без проблем. Привітний гід Тарас впродовж усього туру розповідав цікаві факти про місцевість і звичаї. ",
-        "photo": "./usersPhoto/photo/Review_2_desktop.png"
+        "photo1x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006085/KM/photos/mob/Review_2_mobile-1x_ke95oy.png",
+        "photo1x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006085/KM/photos/mob/Review_2_mobile-2x_dhsonn.png",
+        "photo1x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006086/KM/photos/mob/Review_2_mobile-3x_y4tz4z.png",
+        "photo2x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006112/KM/photos/tabs/Review_2_tablet-1x_ihazn8.png",
+        "photo2x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006112/KM/photos/tabs/Review_2_tablet-2x_hnuwmc.png",
+        "photo2x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006113/KM/photos/tabs/Review_2_tablet-3x_hsktjw.png",
+        "photo3x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006025/KM/photos/desk/Review_2_desktop-1x_c6cnjp.png",
+        "photo3x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006026/KM/photos/desk/Review_2_desktop-2x_azmjaj.png",
+        "photo3x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006026/KM/photos/desk/Review_2_desktop-3x_gdisx2.png"    
     },
     {  
         "id": "3",
         "username": "Ганна",
-        "avatar": "/usersPhoto/avatars/Hanna.png",
+        "avatar": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006289/KM/avatars/Hanna_kyqdko.png",
         "comment":"Хто вперше збирається в гори - це саме той тур та люди,які організовують все. Гід Макар - це цікаві історії, підбір маршруту для комфортного підйому, мотивація та підтримка.",
-        "photo": "./usersPhoto/photo/Review_3_desktop.png"
+        "photo1x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006085/KM/photos/mob/Review_3_mobile-1x_mzlgsd.png",
+        "photo1x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006085/KM/photos/mob/Review_3_mobile-2x_lqmhut.png",
+        "photo1x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006086/KM/photos/mob/Review_3_mobile-3x_pcleye.png",
+        "photo2x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006112/KM/photos/tabs/Review_3_tablet-1x_rxmanw.png",
+        "photo2x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006115/KM/photos/tabs/Review_3_tablet-2x_exj8fb.png",
+        "photo2x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006117/KM/photos/tabs/Review_3_tablet-3x_bvi7uf.png",
+        "photo3x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006026/KM/photos/desk/Review_3_desktop-1x_x93wyr.png",
+        "photo3x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006026/KM/photos/desk/Review_3_desktop-2x_g2qdk1.png",
+        "photo3x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006027/KM/photos/desk/Review_3_desktop-3x_ojeyqu.png"    
     },
     {  
         "id": "4",
         "username": "Ірина",
-        "avatar": "./usersPhoto/avatars/Iryna.png",
+        "avatar": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006289/KM/avatars/Iryna_ldglyy.png",
         "comment":"Було по справжньому круто! Бачили все - сонце, сніг, дощ, туман! Дуже захопливо і цікаво, не пожалкували - варто піти і побачити все своїми очима. Організовано все на вищому рівні. ",
-        "photo": "./usersPhoto/photo/Review_4_desktop.png"
+        "photo1x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006084/KM/photos/mob/Review_4_mobile-1x_p4hoyp.png",
+        "photo1x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006083/KM/photos/mob/Review_4_mobile-2x_cjq0dl.png",
+        "photo1x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006084/KM/photos/mob/Review_4_mobile-3x_vnxotk.png",
+        "photo2x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006113/KM/photos/tabs/Review_4_tablet-1x_vvnygf.png",
+        "photo2x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006113/KM/photos/tabs/Review_4_tablet-2x_kcaikb.png",
+        "photo2x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006113/KM/photos/tabs/Review_4_tablet-3x_wh25pr.png",
+        "photo3x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006027/KM/photos/desk/Review_4_desktop-1x_ko5mly.png",
+        "photo3x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006027/KM/photos/desk/Review_4_desktop-2x_aqxdnh.png",
+        "photo3x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006027/KM/photos/desk/Review_4_desktop-3x_vbqumu.png"    
     },
     {  
         "id": "5",
         "username": "Михайло",
-        "avatar": "./usersPhoto/avatars/Mikhailo.png",
+        "avatar": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006289/KM/avatars/Mikhailo_gmb36u.png",
         "comment":"Хороша організація, все пройшло без проблем. Привітний гід Тарас впродовж усього туру розповідав цікаві факти про місцевість і звичаї. ",
-        "photo": "./usersPhoto/photo/Review_5_desktop.png"
+        "photo1x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006083/KM/photos/mob/Review_5_mobile-1x_rq0p6m.png",
+        "photo1x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006084/KM/photos/mob/Review_5_mobile-2x_euica3.png",
+        "photo1x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006084/KM/photos/mob/Review_5_mobile-3x_ldbxue.png",
+        "photo2x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006114/KM/photos/tabs/Review_5_tablet-1x_wnivfr.png",
+        "photo2x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006117/KM/photos/tabs/Review_5_tablet-2x_zh2uwi.png",
+        "photo2x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006114/KM/photos/tabs/Review_5_tablet-3x_zui8is.png",
+        "photo3x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006024/KM/photos/desk/Review_5_desktop-1x_cz8yil.png",
+        "photo3x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006024/KM/photos/desk/Review_5_desktop-2x_t0pxx9.png",
+        "photo3x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006025/KM/photos/desk/Review_5_desktop-3x_xrb2rc.png"  
     },
     {  
         "id": "6",
         "username": "Наталія",
-        "avatar": "./usersPhoto/avatars/Natalia.png",
+        "avatar": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006289/KM/avatars/Natalia_njenks.png",
         "comment":"Хто вперше збирається в гори - це саме той тур та люди,які організовують все. Гід Макар - це цікаві історії, підбір маршруту для комфортного підйому, мотивація та підтримка.",
-        "photo": "./usersPhoto/photo/Review_6_desktop.png"
+        "photo1x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006084/KM/photos/mob/Review_6_mobile-1x_w7sfyu.png",
+        "photo1x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006084/KM/photos/mob/Review_6_mobile-2x_sncoov.png",
+        "photo1x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006085/KM/photos/mob/Review_6_mobile-3x_mqfwuh.png",
+        "photo2x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006115/KM/photos/tabs/Review_6_tablet-1x_jyqf0h.png",
+        "photo2x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006115/KM/photos/tabs/Review_6_tablet-2x_z6aqfn.png",
+        "photo2x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006116/KM/photos/tabs/Review_6_tablet-3x_gm44qs.png",
+        "photo3x1": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006024/KM/photos/desk/Review_6_desktop-1x_xxfmpa.png",
+        "photo3x2": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006024/KM/photos/desk/Review_6_desktop-2x_jeeecs.png",
+        "photo3x3": "https://res.cloudinary.com/dmb2n4te8/image/upload/v1677006025/KM/photos/desk/Review_6_desktop-3x_e0nlcj.png"   
     }
 ]

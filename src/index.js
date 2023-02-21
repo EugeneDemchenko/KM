@@ -1,8 +1,11 @@
-import { mobileMenu,submitForm } from "./JS/header";
-import { selectTour } from "./JS/tours";
-mobileMenu()
-submitForm()
-selectTour()
+import { mobileMenu, submitForm } from './JS/header';
+import { selectTour } from './JS/tours';
+import { cardsDeploy, rotateCards } from './JS/review';
+mobileMenu();
+submitForm();
+selectTour();
+cardsDeploy();
+rotateCards();
 // const carousel = document.querySelector('.carousel');
 // const cellCount = 6;
 // let selectedIndex = 0;
@@ -23,8 +26,6 @@ selectTour()
 //   selectedIndex++;
 //   rotateCarousel();
 // });
-
-
 
 // const activeBtn = document.querySelectorAll('.tours__button')
 // const handleClick =()=>{console.log(`yep!: ${activeBtn}`);}
