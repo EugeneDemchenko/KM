@@ -40,6 +40,9 @@ export function submitForm (){
   let modalWindow = document.querySelector('.hero__backdrop')
   let coverHero = document.querySelector('.hero__container')
   let closeBtn = document.querySelector('.modal__button-close')
+  let submitBtn = document.querySelector('.submitButton')
+
+  let subBtnTours = document.querySelector('.tours__button--pay')
 
   const openSubmitForm = () => {
     modalWindow.classList.remove('is-hidden');
@@ -55,18 +58,25 @@ export function submitForm (){
     coverHero.classList.remove('hero--closed')
       }
   }
-  const closeOnClick = (e) => {
-    e.stopPropagation();
-    modalWindow.classList.add('is-hidden')
-    coverHero.classList.remove('hero--closed')
+  // const closeOnClick = (e) => {
+  //   e.stopPropagation();
+  //   if (e.target === `<button>`) {
+  //     console.log(e.currentTarget);
+  //     console.log(e.target);
+  //     modalWindow.classList.add('is-hidden')
+  //     coverHero.classList.remove('hero--closed')
+  //   }
 
-  }
+  // }
 
-    modalWindow.addEventListener('click', closeOnClick)
+    // modalWindow.addEventListener('click', closeOnClick)
     document.body.addEventListener('keydown', closeOnESC);
     
 
   btnModal.addEventListener('click', openSubmitForm);
   closeBtn.addEventListener('click', closeSubmitForm)
+  submitBtn.addEventListener('click', closeSubmitForm)
+
+  subBtnTours.addEventListener('click', openSubmitForm);
 
 }

@@ -3,7 +3,6 @@ import { selectTour } from "./JS/tours";
 mobileMenu()
 submitForm()
 selectTour()
-
 // const carousel = document.querySelector('.carousel');
 // const cellCount = 6;
 // let selectedIndex = 0;

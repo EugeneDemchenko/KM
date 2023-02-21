@@ -1,17 +1,19 @@
 .tours{
-    height: 484px;
-    margin-bottom: 20px;
-    margin-top: 60px;
-    @media screen and (min-width:768px) {
-        margin-top: 80px;
-            height: 786px;
-            margin-bottom: 20px;
-    }
-    @media screen and (min-width:1280px) {
-        height: 900px;
-    }
+
+    // height: 484px;
+    // margin-bottom: 20px;
+    // margin-top: 60px;
+    // @media screen and (min-width:768px) {
+    //     margin-top: 80px;
+    //         height: 786px;
+    //         margin-bottom: 20px;
+    // }
+    // @media screen and (min-width:1280px) {
+    //     height: 900px;
+    // }
 }
 .tours__container{
+        padding: 0;
     @media screen and (min-width:1280px) {
         padding-left: 0;
         padding-right: 0;
@@ -86,29 +88,65 @@
     color: #F1F6F6;
 }
 .video{
+    position: relative;
     width: 375px;
     margin: 0 auto;
+        @media screen and (min-width:768px) and (max-width:1279px) {
+                width: 768px;
+                // left: calc((100% - 768px)/2);
+            }
+        
+            @media screen and (min-width:1280px) {
+                width: 1280px;
+                // left: calc((100% - 1280px)/2);
+            }
 }
 #videoOne,
 #videoTwo,
 #videoThree{
-    position: absolute;
+    // position: absolute;
     width: 375px;
     margin: 0 auto;
-    left: calc((100% - 375px)/2);
     @media screen and (min-width:768px) and (max-width:1279px) {
         width: 768px;
-            left: calc((100% - 768px)/2);
     }
     @media screen and (min-width:1280px) {
         width: 1280px;
-                    left: calc((100% - 1280px)/2);
     }
 }
 .covered{
     display: none;
 }
-
+.tours__info {
+    position: absolute;
+    width: 100%;
+    height: calc(100% - 4px);
+    top: 0;
+    left: 0;
+    background-color: rgba(32, 35, 33, 0.5);
+}
+.tours__price{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: $main-color;
+    @media screen and (min-width:768px) and (max-width:1279px) {
+        margin-top: 40px;
+        font-size: 20px;
+        line-height: 27px;
+    }
+    @media screen and (min-width:1280px) {
+        margin-top: 80px;
+        margin-bottom: 30px;
+        font-size: 28px;
+        line-height: 38px;
+    }
+}
 ////////////////////////////////////////////////
 
 

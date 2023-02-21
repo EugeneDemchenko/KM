@@ -1,0 +1,44 @@
+[
+    {  
+        "id": "1",
+        "username": "Марія",
+        "avatar": "/src/data/usersPhoto/avatars/Maria.png",
+        "comment":"Було по справжньому круто! Бачили все - сонце, сніг, дощ, туман! Дуже захопливо і цікаво, не пожалкували - варто піти і побачити все своїми очима. Організовано все на вищому рівні. ",
+        "photo": "./usersPhoto/photo/Review_1_desktop.png"
+    },
+    {  
+        "id": "2",
+        "username": "Остап",
+        "avatar": "/data/usersPhoto/avatars/Ostap.png",
+        "comment":"Хороша організація, все пройшло без проблем. Привітний гід Тарас впродовж усього туру розповідав цікаві факти про місцевість і звичаї. ",
+        "photo": "./usersPhoto/photo/Review_2_desktop.png"
+    },
+    {  
+        "id": "3",
+        "username": "Ганна",
+        "avatar": "/usersPhoto/avatars/Hanna.png",
+        "comment":"Хто вперше збирається в гори - це саме той тур та люди,які організовують все. Гід Макар - це цікаві історії, підбір маршруту для комфортного підйому, мотивація та підтримка.",
+        "photo": "./usersPhoto/photo/Review_3_desktop.png"
+    },
+    {  
+        "id": "4",
+        "username": "Ірина",
+        "avatar": "./usersPhoto/avatars/Iryna.png",
+        "comment":"Було по справжньому круто! Бачили все - сонце, сніг, дощ, туман! Дуже захопливо і цікаво, не пожалкували - варто піти і побачити все своїми очима. Організовано все на вищому рівні. ",
+        "photo": "./usersPhoto/photo/Review_4_desktop.png"
+    },
+    {  
+        "id": "5",
+        "username": "Михайло",
+        "avatar": "./usersPhoto/avatars/Mikhailo.png",
+        "comment":"Хороша організація, все пройшло без проблем. Привітний гід Тарас впродовж усього туру розповідав цікаві факти про місцевість і звичаї. ",
+        "photo": "./usersPhoto/photo/Review_5_desktop.png"
+    },
+    {  
+        "id": "6",
+        "username": "Наталія",
+        "avatar": "./usersPhoto/avatars/Natalia.png",
+        "comment":"Хто вперше збирається в гори - це саме той тур та люди,які організовують все. Гід Макар - це цікаві історії, підбір маршруту для комфортного підйому, мотивація та підтримка.",
+        "photo": "./usersPhoto/photo/Review_6_desktop.png"
+    }
+]
